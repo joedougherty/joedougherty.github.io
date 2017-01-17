@@ -1,13 +1,11 @@
-# Motivation: #
+## Motivation: ##
 
 Learn some techniques from _Working Effectively with Legacy Code_ by Michael Feathers.
 
-# Objective: #
-  * Add a feature to my reversi telnet server that lets users play against an AI opponent
+## Objective: ##
+Add a feature to my reversi telnet server that lets users play against an AI opponent. In order to do so, I'll be applying the *Legacy Code Change Algorithm* outlined in Chapter Two.
 
-In order to do so, I'll be applying the *Legacy Code Change Algorithm* outlined in Chapter Two.
-
-# Tools I'll be using: #
+## Tools I'll be using: ##
 
   * [Reversi project](https://github.com/joedougherty/reversi/)
   * [py.test](http://doc.pytest.org/en/latest/)
